@@ -638,6 +638,8 @@ SWEP.Attachments = {
 	[54] = {default = "grovez_ak12_stock_std", atts = {"grovez_ak12_stock_std", "grovez_ak12_stock_ak_evo"}},
 	[55] = {atts = {"grovez_ak12_rail_left_std"}},
 	[56] = {sel = "grovez_ak12_rail_right_std", atts = {"grovez_ak12_rail_right_std"}},
+	
+	[98] = {atts = { "devl_545x39_bp", "devl_545x39_igolnik",  "devl_545x39_bs", "devl_545x39_bt", "devl_545x39_fmj", "devl_545x39_hp", "devl_545x39_pp", "devl_545x39_prs", "devl_545x39_ps", "devl_545x39_sp", "devl_545x39_t", "devl_545x39_us" }},
 
 	[99] = {atts = {"grovez_ak12_skin1", "grovez_ak12_skin2"}}
 }
