@@ -28,7 +28,7 @@ SWEP.Primary.NumShots = 1 -- The number of shots the weapon fires
 SWEP.Primary.HullSize = 0 -- Big bullets, increase this value. They increase the hull size of the hitscan bullet
 SWEP.Primary.Automatic = true -- Automatic / Semi Auto
 --Bullet based
-SWEP.Primary.Damage = 25 -- Damage, in standard damage points
+SWEP.Primary.Damage = 36 -- Damage, in standard damage points
 SWEP.Primary.Force = 0.1 -- Force value, leave nil to autocalc
 --Projectile based
 SWEP.Primary.Projectile = nil -- Entity to shoot
@@ -102,7 +102,7 @@ SWEP.FireModeName = nil -- Change to a text value to override it
 ----[[AMMO]]----
 SWEP.Primary.ClipSize = 30 -- This is the size of a clip
 SWEP.Primary.DefaultClip = SWEP.Primary.ClipSize * 6 -- This is the number of bullets the gun gives you, counting a clip as defined directly above
-SWEP.Primary.Ammo = "ar2" -- "pistol" "357" "smg1" "ar2" "buckshot" "SniperPenetratedRound"
+SWEP.Primary.Ammo = "5.45x39mm" -- "pistol" "357" "smg1" "ar2" "buckshot" "SniperPenetratedRound"
 SWEP.Primary.AmmoConsumption = 1 -- Ammo consumed per shot
 SWEP.DisableChambering = false -- Disable round-in-the-chamber
 ----[[SCREEN SHAKE]]----
